@@ -4,7 +4,7 @@
  
  - Realtime Radio Stations ( if you change stations and come back to the first one, you will notice that it is flowing with time)<br>
  
- - You can expand number of Radio station  and songs easly.<br>
+ - You can expand number of Radio stations  and songs easly.<br>
  
 <br>
 
