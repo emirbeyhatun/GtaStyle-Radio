@@ -13,9 +13,6 @@
 <br>
 
 ###### Sample  
-
-<br>
-
 ![gif-gtaradio](https://user-images.githubusercontent.com/29523816/38816294-709f8d16-419e-11e8-87c3-843b9e9af8ff.gif)
 
 
